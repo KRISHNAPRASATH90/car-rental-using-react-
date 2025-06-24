@@ -4,8 +4,7 @@ Note: Car images are used for demonstration purposes only and may appear as coll
 
 🌐 Live Demo Link
 
-View Live on Vercel 👉🏻 car-rental-using-react-fm3zsfbah-krishinas-projects.vercel.app
-
+View Live on Vercel 👉🏻 [ demo](https://car-rental-using-react.vercel.app/)
 Features
 
  ✅ Responsive layout built with Tailwind CSS
